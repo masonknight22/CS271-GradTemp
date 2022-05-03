@@ -1,0 +1,13 @@
+h1 {
+
+  margin-top: 1 em;
+  margin-left: 2 em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 5em;
+  background: linear-gradient(330deg, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 200px;
+
+}
